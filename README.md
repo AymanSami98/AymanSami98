@@ -15,7 +15,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Ayman, Software Engineerfrom Palestine<br>
+  Hi, I'm Ayman, Software Engineer from Palestine<br>
   💬 Ask me anything about from <a href="https://github.com/AFahgan/AFahgan/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: aymanfahgan@gmail.com">aymanfahgan@gmail.com</a>
