@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AFahgan.AFahgan">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AymanSami98.AymanSami98">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -9,14 +9,14 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/aymanfahgan/" title="LinkedIn Profile" target="blank"><img width="22" src="https://svgshare.com/i/gfZ.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/AFahgan/" title="LeetCode Profile" target="blank"><img width="22" src="https://svgshare.com/i/gfQ.svg"> LeetCode</a></code>
-  <code><a href="https://github.com/AFahgan" title="gitHub Profile"><img width="22" src="https://svgshare.com/i/gfw.svg"> GitHub</a></code>
+  <code><a href="https://leetcode.com/AymanSami98/" title="LeetCode Profile" target="blank"><img width="22" src="https://svgshare.com/i/gfQ.svg"> LeetCode</a></code>
+  <code><a href="https://github.com/AymanSami98" title="gitHub Profile"><img width="22" src="https://svgshare.com/i/gfw.svg"> GitHub</a></code>
  
 </h5>
 <br>
 <p align="center">
   Hi, I'm Ayman, Software Engineer from Palestine<br>
-  💬 Ask me anything about from <a href="https://github.com/AFahgan/AFahgan/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/AymanSami98/AymanSami98/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: aymanfahgan@gmail.com">aymanfahgan@gmail.com</a>
 </p>
@@ -47,20 +47,20 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=AFahgan&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="AFahgan" />
+      <img align="left" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=AymanSami98&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="AymanSami98" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Afahgan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=AymanSami98&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afahgan&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanSami98&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Afahgan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=AymanSami98&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
@@ -69,21 +69,21 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/AFahgan/Reddit-Clone" title="Ayman-Reddit"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AFahgan&repo=Reddit-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/AFahgan/shoestore" title="Food-Hub"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AFahgan&repo=shoestore&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/AymanSami98/Reddit-Clone" title="Ayman-Reddit"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AymanSami98&repo=Reddit-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/AymanSami98/shoestore" title="Food-Hub"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AymanSami98&repo=shoestore&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/AFahgan/Fitness-house" title="Fitness-house"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AFahgan&repo=Fitness-house&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/AFahgan/Reddit-Express" title="Reddit-Express"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AFahgan&repo=Reddit-Express&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/AymanSami98/Fitness-house" title="Fitness-house"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AymanSami98&repo=Fitness-house&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/AymanSami98/Reddit-Express" title="Reddit-Express"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AymanSami98&repo=Reddit-Express&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <h4 align="center">
- <a href="https://github.com/AFahgan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+ <a href="https://github.com/AymanSami98?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 
 <!--
-**AFahgan/Afahgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AymanSami98/AymanSami98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
