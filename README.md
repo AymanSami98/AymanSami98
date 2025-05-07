@@ -18,7 +18,7 @@
   Hi, I'm Ayman, Software Engineer from Palestine<br>
   💬 Ask me anything about from <a href="https://github.com/AymanSami98/AymanSami98/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: aymanfahgan@gmail.com">aymanfahgan@gmail.com</a>
+  📫 How to reach me: <a href="[mailto: aymanfahgan@gmail.com](https://www.linkedin.com/in/aymanfahgan/)">https://www.linkedin.com/in/aymanfahgan/</a>
 </p>
 
 <hr>
